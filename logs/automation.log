@@ -1,0 +1,128 @@
+2023-06-02 16:50:11,260 [main] INFO  testCase.TC_003_LoginDDT - Chrome driver Started
+2023-06-02 16:50:14,510 [main] INFO  testCase.TC_003_LoginDDT - ***************Opencart Application Started*************
+2023-06-02 16:50:16,128 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:50:16,686 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:50:17,131 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:50:17,577 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:50:18,009 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:50:18,457 [main] INFO  testCase.TC_003_LoginDDT - ***************Opencart Application closed*************
+2023-06-02 16:56:23,846 [main] INFO  testCase.TC_003_LoginDDT - Chrome driver Started
+2023-06-02 16:56:28,370 [main] INFO  testCase.TC_003_LoginDDT - ***************Opencart Application Started*************
+2023-06-02 16:56:29,874 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:56:30,741 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:56:31,308 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:56:31,868 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:56:32,390 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:56:32,953 [main] INFO  testCase.TC_003_LoginDDT - ***************Opencart Application closed*************
+2023-06-02 16:58:46,253 [main] INFO  testCase.TC_003_LoginDDT - Chrome driver Started
+2023-06-02 16:58:49,643 [main] INFO  testCase.TC_003_LoginDDT - ***************Opencart Application Started*************
+2023-06-02 16:58:51,111 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:58:52,622 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:59:03,325 [main] INFO  testCase.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+2023-06-02 16:59:03,328 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:59:14,038 [main] INFO  testCase.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+2023-06-02 16:59:14,041 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:59:25,080 [main] INFO  testCase.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+2023-06-02 16:59:25,082 [main] INFO  testCase.TC_003_LoginDDT - *****************Login Test DDT started****************
+2023-06-02 16:59:26,281 [main] INFO  testCase.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+2023-06-02 16:59:26,284 [main] INFO  testCase.TC_003_LoginDDT - ***************Opencart Application closed*************
+2023-06-03 19:44:02,985 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 19:44:07,873 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 19:44:07,885 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 19:44:19,272 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 19:44:19,273 [main] WARN  testCase.TC_001_AccountRegistration - customer registration is not successful
+2023-06-03 19:44:19,273 [main] ERROR testCase.TC_001_AccountRegistration - test failed..
+2023-06-03 19:44:19,523 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 19:44:19,711 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 19:44:22,526 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 19:44:22,529 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 19:44:24,508 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 19:44:24,510 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 19:45:28,251 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 19:45:31,802 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 19:45:31,816 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 19:45:33,344 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 19:45:33,344 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 19:45:33,363 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 19:45:33,564 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 19:45:37,472 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 19:45:37,473 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 19:45:39,517 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 19:45:39,519 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 19:54:22,746 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 19:54:28,661 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 19:54:28,696 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 19:54:30,581 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 19:54:30,581 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 19:54:30,600 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 19:54:30,796 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 19:54:32,850 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 19:54:32,852 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 19:54:35,046 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 19:54:35,047 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 19:55:38,516 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 19:55:41,850 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 19:55:41,867 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 19:55:43,422 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 19:55:43,423 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 19:55:43,441 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 19:55:43,635 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 19:55:46,081 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 19:55:46,082 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 19:55:48,021 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 19:55:48,021 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 20:23:41,090 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 20:23:44,525 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 20:23:44,540 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 20:23:46,050 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 20:23:46,050 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 20:23:46,070 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 20:23:46,268 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 20:23:48,334 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 20:23:48,336 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 20:23:50,551 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 20:23:50,552 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 20:27:35,279 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 20:27:40,176 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 20:27:40,192 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 20:27:41,818 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 20:27:41,818 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 20:27:41,835 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 20:27:42,065 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 20:27:44,093 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 20:27:44,095 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 20:27:46,060 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 20:27:46,062 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 20:28:59,408 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 20:29:03,057 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 20:29:03,074 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 20:29:04,687 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 20:29:04,687 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 20:29:04,704 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 20:29:04,921 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 20:29:07,277 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 20:29:07,278 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 20:29:09,296 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 20:29:09,297 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 20:42:38,323 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 20:42:42,021 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 20:42:42,039 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 20:42:43,592 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 20:42:43,592 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 20:42:43,614 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 20:42:43,876 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 20:42:45,876 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 20:42:45,878 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 20:42:47,921 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 20:42:47,922 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
+2023-06-03 20:43:03,607 [main] INFO  testCase.TC_001_AccountRegistration - Chrome driver Started
+2023-06-03 20:43:09,538 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application Started*************
+2023-06-03 20:43:09,580 [main] INFO  testCase.TC_001_AccountRegistration - Account Registartion statedclass testCase.TC_001_AccountRegistration
+2023-06-03 20:43:11,698 [main] INFO  testCase.TC_001_AccountRegistration - verifying customer registration
+2023-06-03 20:43:11,698 [main] INFO  testCase.TC_001_AccountRegistration - test passed..
+2023-06-03 20:43:11,716 [main] INFO  testCase.TC_001_AccountRegistration - ***************Opencart Application closed*************
+2023-06-03 20:43:11,911 [main] INFO  testCase.TC_002_LoginTest - Chrome driver Started
+2023-06-03 20:43:13,890 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application Started*************
+2023-06-03 20:43:13,892 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Started****************
+2023-06-03 20:43:15,901 [main] INFO  testCase.TC_002_LoginTest - *****************Login Test Finished****************
+2023-06-03 20:43:15,903 [main] INFO  testCase.TC_002_LoginTest - ***************Opencart Application closed*************
